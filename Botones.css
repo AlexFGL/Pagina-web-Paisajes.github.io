@@ -1,0 +1,19 @@
+.mi-boton {
+    background-color: #4CAF50; /* Establece el color de fondo */
+    border: none; /* Elimina los bordes por defecto */
+    color: white; /* Establece el color del texto */
+    padding: 12px 24px; /* Establece el relleno interior */
+    text-align: center; /* Centra el texto horizontalmente */
+    text-decoration: none; /* Elimina la decoración del texto */
+    display: inline-block; /* Establece el botón como un elemento en línea */
+    font-size: 16px; /* Establece el tamaño del texto */
+    margin: 4px 2px; /* Establece los márgenes del botón */
+    cursor: pointer; /* Establece el cursor al pasar por encima */
+    border-radius: 25px; /* Establece bordes redondeados */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1); /* Agrega sombra */
+  }
+  
+  .mi-boton:hover {
+    background-color: #3e8e41; /* Cambia el color de fondo al pasar por encima */
+  }
+  
